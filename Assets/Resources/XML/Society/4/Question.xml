@@ -1,0 +1,23 @@
+﻿<Question>
+
+  <text Id="00" Content="보호비를 걷자고 주장한 조직원은 누구입니까?"/>
+  <test Id="01" Content="보호비를 누구와 같이 거두었나요?"/>
+  <test Id="02" Content="여러명이서 보호비를 걷으러 다녔죠?"/>
+  <test Id="03" Content="보호비를 걷으러 다녔죠?"/>
+
+  <text Id="10" Content="보호비를 걷게 된 이유가 있나요?"/>
+  <test Id="11" Content="돈을 어디에서 사용하려고 했습니까?"/>
+  <test Id="12" Content="보호비를 거두는 일이 재밌었나요?"/>
+  <test Id="13" Content="보호비를 받을 때 기분이 어땠나요?"/>
+
+  <text Id="20" Content="보호비를 걷은 기간이 정확히 기억이 나시는가요?"/>
+  <test Id="21" Content="보호비를 언제부터 걷기 시작했습니까?"/>
+  <test Id="22" Content="오랫동안 보호비를 거두었지요?"/>
+  <test Id="23" Content="조직에는 언제부터 들어갔나요?"/>
+
+  <text Id="30" Content="냉면 씨 때문에 손해를 본 가게 주인들에게 하고싶은 말씀이 있으십니까?"/>
+  <test Id="31" Content="'딸기맛 미역'파는 엄청나게 조직적입니까?"/>
+  <test Id="32" Content="'딸기맛 미역'파는 어떤 점이 나쁘다고 생각하십니까?"/>
+  <test Id="33" Content="형무소 생활은 어떻습니까?"/>
+
+</Question>

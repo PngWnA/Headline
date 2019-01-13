@@ -1,0 +1,23 @@
+<Question>
+
+  <text Id="00" Content="출마 계기가 무엇인가요?"/>
+  <test Id="01" Content="어떻게 출마하게 되셨나요?"/>
+  <test Id="02" Content="사업가로 성공하셨는데 왜 대통령 선거에 출마하시나요?"/>
+  <test Id="03" Content="사업가이신데 왜 출마 선언을 하시나요?"/>
+
+  <text Id="10" Content="대통령으로서 공약은 무엇인가요?"/>
+  <test Id="11" Content="대통령이 된다면 어떤 일을 하실건가요?"/>
+  <test Id="12" Content="공약이 뭔가요?"/>
+  <test Id="13" Content="대통령이 돼서 하실 일은 계획하셨나요?"/>
+
+  <text Id="20" Content="자신이 대통령 자격이 있는 이유를 무엇이라고 생각하시나요?"/>
+  <test Id="21" Content="대통령 후보로서 자신의 장점은?"/>
+  <test Id="22" Content="왜 자신이 대통령이 되어야 한다고 생각하시나요?"/>
+  <test Id="23" Content="자신이 대통령의 자격이 있다고 생각하시는 건가요?"/>
+
+  <text Id="30" Content="현재 정부 정책에 대한 의견 말씀해주세요."/>
+  <test Id="31" Content="현재 대통령에 대해서는 어떻게 생각하시나요?"/>
+  <test Id="32" Content="현재 정치인들에 대해서는 어떻게 생각하시나요?"/>
+  <test Id="33" Content="현재 정계에 대해 부정적으로 생각하십니까?"/>
+
+</Question>

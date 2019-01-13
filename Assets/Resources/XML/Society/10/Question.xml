@@ -1,0 +1,28 @@
+﻿<Question>
+
+  <text Id="00" Content="어쩌다 다들 모였나요?"/>
+  <test Id="01" Content="어떤 경위로 모이게 되었죠?"/>
+  <test Id="02" Content="설날이라서 다들 모이신 건가요?"/>
+  <test Id="03" Content="설날을 맞아서 다들 고향에 내려 온 건가요?"/>
+
+  <text Id="10" Content="도박판은 어쩌다가 벌어지게 된 건가요?"/>
+  <test Id="11" Content="누가 먼저 도박을 하자고 했죠?"/>
+  <test Id="12" Content="어쩌다 도박을 시작했죠?"/>
+  <test Id="13" Content="왜 도박을 했죠?"/>
+
+  <text Id="20" Content="어떤 게임을 하며 얼마를 걸고 했나요?"/>
+  <test Id="21" Content="도박 종목은 무엇이었죠?"/>
+  <test Id="22" Content="어떤 게임을 했나요?"/>
+  <test Id="23" Content="도박 좋아해요?"/>
+
+  <text Id="30" Content="도박은 범죄라는 것, 알고 있었나요?"/>
+  <test Id="31" Content="이전에도 도박을 하다가 걸린 적이 있나요?"/>
+  <test Id="32" Content="평소에도 도박을 좋아했나요?"/>
+  <test Id="33" Content="그러게 왜 도박을 하셔서…."/>
+
+  <text Id="40" Content="현재 어떤 생각이 드나요?"/>
+  <test Id="41" Content="앞으론 도박하지 마세요."/>
+  <test Id="42" Content="걸리면 어떤 기분인가요?"/>
+  <test Id="43" Content="기분이 어떠세요?"/>
+
+</Question>

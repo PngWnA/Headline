@@ -1,0 +1,4 @@
+﻿<Intro Age="50" Name="소견소" Hint="소견소 경찰서장 해명 기자회견" Combo="Politics">
+	<text Id="0" Content="소견소 경찰서장이 배우 연유정의 어머니인 고은회와 영상통화를 한 사실에 대한 해명 기자회견을 갖게 되었다. 기자회견에 참석해보자."/>
+	<text Id="1" Content="……."/>
+</Intro>

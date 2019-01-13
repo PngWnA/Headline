@@ -1,0 +1,23 @@
+<Question>
+	<text Id="00" Content="‘니 이름’ 영화를 만들 때 가장 중요하게 생각한 소재는 무엇입니까?"/>
+	<text Id="01" Content="‘니 이름’ 영화를 만들 때 가장 재밌었던 부분은 어디였습니까?"/>
+	<text Id="02" Content="여주와 남주가 사랑에 빠진 이유가 궁금합니다."/>
+	<text Id="03" Content="여주와 남주는 서로를 좋아했나요?"/>
+
+	<text Id="10" Content="의도치 않은 영화 흥행에 대해서 어떻게 생각하십니까?"/>
+	<text Id="11" Content="영화 흥행에서 가장 중요한 부분은 무엇이라고 생각하십니까?"/>
+	<text Id="12" Content="영화 흥행이 안될 때의 시나리오는 생각해보았습니까?"/>
+	<text Id="13" Content="영화 흥행 수입은 어느정도 됩니까?"/>
+
+	<text Id="20" Content="‘니 이름’ 관람 매너에 대해서 한 말씀 부탁드릴 수 있을까요?"/>
+	<text Id="21" Content="관람 매너가 좋지 않은 사람을 영화관에서 만나보셨나요?"/>
+	<text Id="22" Content="OST를 영화관에서 따라부르는 것에 대해서 한 말씀 부탁드릴 수 있을까요?"/>
+	<text Id="23" Content="‘혼모노’를 아십니까?"/>
+
+	<text Id="30" Content="OST를 다룬 가수를 뽑은 기준은 무엇입니까?"/>
+	<text Id="31" Content="OST는 영화와 관련이 없나요?"/>
+	<text Id="32" Content="OST는 직접 만들었나요?"/>
+	<text Id="33" Content="OST를 만든 가수와는 언제 만났나요?"/>
+
+	<text Id="40" Content="네 좋은 말씀 감사합니다."/>
+</Question>

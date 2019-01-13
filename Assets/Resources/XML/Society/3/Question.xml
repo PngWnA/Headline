@@ -1,0 +1,28 @@
+﻿<Question>
+
+  <text Id="00" Content="당신의 유명한 냉면밥 집 주인 김냉면 씨인가요?"/>
+  <test Id="01" Content="당신이 소문의 냉면밥집 점주인가요?"/>
+  <test Id="02" Content="당신이 김냉면 씨인가요?"/>
+  <test Id="03" Content="여기가 지금 유명한 냉면밥 집인가요?"/>
+
+  <text Id="10" Content="냉면밥은 어떻게 먹는 음식인가요?"/>
+  <test Id="11" Content="냉면밥은 뭐하는 음식인가요?"/>
+  <test Id="12" Content="냉면밥이란 뭔가요?"/>
+  <test Id="13" Content="냉면밥 맛있나요…?"/>
+
+  <text Id="20" Content="언제부터 어떻게 이렇게 유명해진거죠?"/>
+  <test Id="21" Content="유명해진 계기가 무엇인가요?"/>
+  <test Id="22" Content="이게 어디가 맛있다고 다들 찾아오나요?"/>
+  <test Id="23" Content="어쩌다 이런 게 유명해진거죠?"/>
+
+  <text Id="30" Content="맛있어지는 비결이 있나요?"/>
+  <test Id="31" Content="맛의 비법 같은 게 있나요?"/>
+  <test Id="32" Content="레시피가 어떻게 되죠?"/>
+  <test Id="33" Content="맛은 어떻게 내나요?"/>
+
+  <text Id="40" Content="손님들께 특별히 하고 싶은 말씀은?"/>
+  <test Id="41" Content="마지막으로 하고 싶은 말씀이 있나요?"/>
+  <test Id="42" Content="고객님들께 하고 싶은 말씀이 있나요?"/>
+  <test Id="43" Content="마지막으로 한 마디 해주세요."/>
+
+</Question>

@@ -1,0 +1,4 @@
+﻿<Intro Age="39" Name="이은경" Hint="도심지 싱크홀 발생">
+	<text Id="0" Content="성례구 도회호수 일대에 싱크홀이 생겼다. 싱크홀 조사 업체 직원을 인터뷰해보자."/>
+	<text Id="1" Content="안녕하세요."/>
+</Intro>

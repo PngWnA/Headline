@@ -1,0 +1,28 @@
+﻿<Question>
+
+  <text Id="00" Content="안녕하세요. 게임 개발에서 맡으신 일은 무엇인가요?"/>
+  <test Id="01" Content="안녕하세요. 어떤 직책을 담당했나요?"/>
+  <test Id="02" Content="안녕하세요. 최근 ‘주머니괴물 가자!’ 가 열풍입니다."/>
+  <test Id="03" Content="안녕하세요! 날씨가 참 좋네요."/>
+
+  <text Id="10" Content="'주머니괴물 가자!'를 시작한 때와 계기는 무엇인가요?"/>
+  <test Id="11" Content="'주머니괴물 가자!'를 만들게 된 계기가 있나요?"/>
+  <test Id="12" Content="'주머니괴물 가자!'는 언제부터 개발을 시작했나요?"/>
+  <test Id="13" Content="'주머니괴물 가자!'를 만든 이유는 뭐죠?"/>
+
+  <text Id="20" Content="게임을 개발하는 동안 특히 힘들었던 점이 있었나요?"/>
+  <test Id="21" Content="게임을 개발하는 동안 힘들었던 점이 있었나요?"/>
+  <test Id="22" Content="게임을 개발하는 동안 많이 힘들었을 것 같네요."/>
+  <test Id="23" Content="게임을 개발하는 일은 재미있나요?"/>
+
+  <text Id="30" Content="게임이 성공한 비결이 무엇이라고 생각하나요?"/>
+  <test Id="31" Content="게임이 성공한 비결이 있나요?"/>
+  <test Id="32" Content="게임이 성공할 것이라고 믿었나요?"/>
+  <test Id="33" Content="게임이 성공한 이유가 있을까요?"/>
+
+  <text Id="40" Content="앞으로 어떤 컨텐츠들이 더 추가될 예정인가요?"/>
+  <test Id="41" Content="컨텐츠 개발 계획이 더 있나요?"/>
+  <test Id="42" Content="어떤 게임을 더 기획하고 있나요?"/>
+  <test Id="43" Content="앞으로 매출은 어느 정도 나올 것 같나요?"/>
+
+</Question>

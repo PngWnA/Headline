@@ -1,0 +1,8 @@
+﻿<Question>
+
+  <text Id="00" Content="고은회 씨와의 공모 관계를 인정하시는 건가요?"/>
+  <test Id="01" Content="대통령 권한으로 고은회 씨를 도왔다고요…?"/>
+  <test Id="02" Content="고은회 씨가 도움을 많이 주었나 봅니다?"/>
+  <test Id="03" Content="'내가 이러려고 대통령을 했나'는 무슨 소리예요?"/>
+
+</Question>

@@ -1,0 +1,28 @@
+﻿<Question>
+
+  <text Id="00" Content="싱크홀이 정확히 언제 어디에 생겼고 크기는 어느정도 되나요?"/>
+  <test Id="01" Content="언제, 어디에 생겼고 얼마나 큰가요?"/>
+  <test Id="02" Content="싱크홀이 언제 어디에 생겼나요?"/>
+  <test Id="03" Content="이번에 생긴 싱크홀은 얼마나 큰가요?"/>
+
+  <text Id="10" Content="이런 땅꺼짐 현상이 발생한 원인은 무엇인가요?"/>
+  <test Id="11" Content="이런 일이 왜 일어났을까요?"/>
+  <test Id="12" Content="혹시 도회호수 근처에 공사중인 그레트헨타워 때문인가요?"/>
+  <test Id="13" Content="왜죠"/>
+
+  <text Id="20" Content="이런 땅꺼짐 현상이 전에도 비슷한 원인으로 있었나요?"/>
+  <test Id="21" Content="이전에도 이와 비슷한 싱크홀이 있었나요?"/>
+  <test Id="22" Content="이런 일이 예전부터 있던 건가요?"/>
+  <test Id="23" Content="원래 있던 일입니까?"/>
+
+  <text Id="30" Content="지하철 공사의 어떤 부분이 싱크홀의 원인이었나요?"/>
+  <test Id="31" Content="지하철 공사가 어떻게 문제가 된 건가요?"/>
+  <test Id="32" Content="어떤 부분이 문제가 된 건가요?"/>
+  <test Id="33" Content="더 구체적으로 말씀해 주시겠어요?"/>
+
+  <text Id="40" Content="그러면 이번에 발견된 것 외에도 서울 내에 비슷한 구멍이 더 존재하나요?"/>
+  <test Id="41" Content="서울시에 이와 비슷한 구멍이 더 있나요?"/>
+  <test Id="42" Content="그렇다면 지하에 빈 공간이 더 존재하나요?"/>
+  <test Id="43" Content="지하에 구멍이 더 있나요?"/>
+
+</Question>

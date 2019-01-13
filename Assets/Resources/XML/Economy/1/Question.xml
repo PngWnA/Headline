@@ -1,0 +1,28 @@
+<Question>
+
+  <text Id="00" Content="이들의 범행 동기는 무엇인가요?"/>
+  <test Id="01" Content="이들이 범행을 저지른 이유가 무엇인가요?"/>
+  <test Id="02" Content="이런 범죄가 발생하게 된 이유는 무엇인가요?"/>
+  <test Id="03" Content="왜 이런 일이 일어난거죠?"/>
+
+  <text Id="10" Content="구체적인 범행 수법을 설명해주세요."/>
+  <test Id="11" Content="범행에 가담한 사람들은 누구인가요?"/>
+  <test Id="12" Content="이 씨 일당이 취한 이익은 얼마인가요?"/>
+  <test Id="13" Content="이러한 범죄가 과거에도 있었나요?"/>
+
+  <text Id="20" Content="이들이 체포된 경위는?"/>
+  <test Id="21" Content="체포된 계기는 무엇인가요?"/>
+  <test Id="22" Content="어쩌다가 체포되었나요?"/>
+  <test Id="23" Content="경찰이 직접 잡은게 아닌가요?"/>
+
+  <text Id="30" Content="이들에 대한 후속 조치는 어떻게 되었나요?"/>
+  <test Id="31" Content="이들은 어떤 조치를 받았나요?"/>
+  <test Id="32" Content="체포된 세 사람의 형량은 어떻게 되나요?"/>
+  <test Id="33" Content="형량은 얼마정도로 예상하시나요?"/>
+
+  <text Id="40" Content="이러한 범행 수법이 최초인가요?"/>
+  <test Id="41" Content="이와 같은 범죄가 많은가요?"/>
+  <test Id="42" Content="이런 범행 수법은 처음인가요?"/>
+  <test Id="43" Content="이런 범죄가 설마 또 있나요?"/>
+
+</Question>

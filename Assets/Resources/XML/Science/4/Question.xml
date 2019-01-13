@@ -1,0 +1,28 @@
+﻿<Question>
+
+  <text Id="00" Content="'베타고'에 대해 설명 부탁드립니다."/>
+  <test Id="01" Content="'베타고'는 어떤 기계인가요?"/>
+  <test Id="02" Content="'베타고'는 무엇이죠?"/>
+  <test Id="03" Content="'베타고', 대단하네요."/>
+
+  <text Id="10" Content="'베타고'는 어떤 원리로 스타크래프트를 하죠?"/>
+  <test Id="11" Content="'베타고'의 원리는 무엇이죠?"/>
+  <test Id="12" Content="'베타고'가 스타크래프트를 어떻게 하죠?"/>
+  <test Id="13" Content="인공지능이 스타크래프트를 할 수 있나요?"/>
+
+  <text Id="20" Content="'베타고'에 들어간 시간과 비용은 어느 정도인가요?"/>
+  <test Id="21" Content="'베타고' 에 어느 정도의 비용이 들었나요?"/>
+  <test Id="22" Content="'베타고'를 개발하느라 많은 돈이 들었겠네요."/>
+  <test Id="23" Content="'베타고'는 얼마나 비싼가요?"/>
+
+  <text Id="30" Content="콩진호씨를 이겼을 때 느낀 소감은 어땠나요?"/>
+  <test Id="31" Content="콩진호씨랑 대결했을 때 이길 것이라고 확신했었나요?"/>
+  <test Id="32" Content="콩진호씨를 이겼을 때 기분 좋았나요?"/>
+  <test Id="33" Content="콩진호씨를 이긴 ‘베타고’도 대단하지만, 그 정도 경기를 보여준 콩진호 씨도 대단하네요."/>
+
+  <text Id="40" Content="앞으로 어떤 프로젝트를 진행하실 생각입니까?"/>
+  <test Id="41" Content="현재 진행중인 프로젝트가 더 있나요?"/>
+  <test Id="42" Content="'베타고'가 앞으로 더 발전할 수 있을까요?"/>
+  <test Id="43" Content="이번 프로젝트로 얻은 수익이 얼마나 되나요?"/>
+
+</Question>

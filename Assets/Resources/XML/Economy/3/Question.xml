@@ -1,0 +1,23 @@
+﻿<Question>
+
+  <text Id="00" Content="휴대폰 액정 결함은 정확히 어떤 것입니까?"/>
+  <test Id="01" Content="휴대폰에 내부적인 결함이 있었습니까?"/>
+  <test Id="02" Content="휴대폰 액정에 결함이 있었나요?"/>
+  <test Id="03" Content="휴대폰에 결함이 있었나요?"/>
+
+  <text Id="10" Content="지금 리콜 상황은 어떻습니까?"/>
+  <test Id="11" Content="리콜은 순조롭게 진행되고 있습니까?"/>
+  <test Id="12" Content="지금 리콜을 하고 있습니까?"/>
+  <test Id="13" Content="소비자가 핸드폰을 꼭 리콜해야 하나요?"/>
+
+  <text Id="20" Content="소비자들의 반응에 어떻게 대처하실 겁니까?"/>
+  <test Id="21" Content="현재 소비자 심리는 어떻다고 생각하십니까?"/>
+  <test Id="22" Content="소비자들은 약간 실망한 거 같은데요."/>
+  <test Id="23" Content="소비자들이 매우 화나있다는 것 아시는가요?"/>
+
+  <text Id="30" Content="향후 적자에 대해서는 어떻게 대처하실 겁니까?"/>
+  <test Id="31" Content="소비자 손해배상을 진행한다면 적자가 심해질 거 같은데요?"/>
+  <test Id="32" Content="많은 적자가 예상되는데요."/>
+  <test Id="33" Content="이 회사에 미래가 있나요? "/>
+
+</Question>

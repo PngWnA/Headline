@@ -1,0 +1,23 @@
+﻿<Question>
+
+  <text Id="00" Content="계란 값이 올라간 원인을 세가지만 꼽아주세요."/>
+  <test Id="01" Content="계란 값이 올라간 가장 큰 원인은 무엇인가요?"/>
+  <test Id="02" Content="요즘 계란 값은 많이 비싼 편인가요?"/>
+  <test Id="03" Content="오늘은 계란 드셨나요?"/>
+
+  <text Id="10" Content="계란 값이 올라서 D-마트 마진이 많이 남는 지 궁금합니다."/>
+  <test Id="11" Content="계란이 비싸면 손님이 적어도 더 많은 이득을 취할 수 있지 않나요?"/>
+  <test Id="12" Content="손님들이 계란을 많이 사나요?"/>
+  <test Id="13" Content="계란 팔면 돈이 많이 남겠어요?"/>
+
+  <text Id="20" Content="향후 계란 구입률은 어떻게 된다고 예측하시나요?"/>
+  <test Id="21" Content="계란 구입률이 증가할까요?"/>
+  <test Id="22" Content="손님들이 계란을 한꺼번에 사가나요?"/>
+  <test Id="23" Content="집에 계란 많이 사놓으셨나요?"/>
+
+  <text Id="30" Content="중간 상인의 횡포를 방지하기 위해서 어떤 정책이 필요하다고 생각하시나요? "/>
+  <test Id="31" Content="중간 상인들이 횡포를 많이 부립니까?"/>
+  <test Id="32" Content="중간 상인들과 거래 협상을 할 때 가장 중요한 것은 무엇이라고 생각하시나요?"/>
+  <test Id="33" Content="중간 상인이랑 많이 만나보시나요?"/>
+
+</Question>

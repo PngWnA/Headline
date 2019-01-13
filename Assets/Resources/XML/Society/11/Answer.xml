@@ -1,0 +1,29 @@
+﻿<Answer>
+  
+  <text Id="00" Score="3" Content="게임 제작에 관한 것들을 총괄하는 디렉터를 맡았습니다."/>
+  <text Id="01" Score="2" Content="디렉터 역할을 맡았습니다."/>
+  <text Id="02" Score="1" Content="네, 폭발적인 인기를 끌고 있죠."/>
+  <text Id="03" Score="0" Content="아, 네… 좋네요."/>
+  
+  <text Id="10" Score="3" Content="약 4년 전부터 시작했습니다. 어렸을 때 ‘주머니괴물’ 만화영화를 즐겨봤는데, 그때의 추억을 되살려 만들기로 했습니다."/>
+  <text Id="11" Score="2" Content="어렸을 때 ‘주머니괴물’ 만화영화를 즐겨봤는데, 그때의 추억을 되살려 만들기로 했습니다."/>
+  <text Id="12" Score="1" Content="약 4년 전부터 시작했습니다."/>
+  <text Id="13" Score="0" Content="어렸을 적의 추억을 되살려 보고 싶었기 때문입니다."/>
+  
+  <text Id="20" Score="3" Content="수없이 많았지만, 특히 개발 기간을 맞추기 위해 했던 수많은 야근이 제일 힘들었습니다."/>
+  <text Id="21" Score="2" Content="수없이 많았지만, 특히 개발 기간을 맞추기 위해 했던 수많은 야근이 제일 힘들었습니다."/>
+  <text Id="22" Score="1" Content="네, 정말 힘든 나날이었습니다."/>
+  <text Id="23" Score="0" Content="개발하는 동안은 힘들지만, 완성한 다음에는 보람있습니다."/>
+  
+  <text Id="30" Score="3" Content="어른들의 동심을 자극하고, 아이들에게도 딱 맞는 컨텐츠이기 때문에 성공했다고 생각합니다."/>
+  <text Id="31" Score="2" Content="어른들의 동심을 자극하고, 아이들에게도 딱 맞는 컨텐츠이기 때문에 성공했다고 생각합니다."/>
+  <text Id="32" Score="1" Content="거의 확신하고 있었습니다."/>
+  <text Id="33" Score="0" Content="어렸을 때의 동심을 자극했기 때문이라고 생각합니다."/>
+
+  
+  <text Id="40" Score="3" Content="플레이어 간 배틀, 다양한 주머니괴물들의 추가 등등을 계획하고 있습니다."/>
+  <text Id="41" Score="2" Content="플레이어 간 배틀, 다양한 주머니괴물들의 추가 등등을 계획하고 있습니다."/>
+  <text Id="42" Score="1" Content="개발 단계라 아직 말해드릴 수 없습니다."/>
+  <text Id="43" Score="0" Content="그건 저도 예측하기 힘드네요."/>
+  
+</Answer>

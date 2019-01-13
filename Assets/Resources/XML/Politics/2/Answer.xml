@@ -1,0 +1,24 @@
+﻿<Answer>
+  
+  <text Id="00" Score="3" Content="오늘 봉고차는 어디지? 강남인가? 암튼 거기로 가서 시위 같은 거 참가하는 걸로 알고 있어요. 자세한건 나도 잘 몰라."/>
+  <text Id="01" Score="2" Content="오늘 봉고차는 어디지? 강남인가 그쪽으로 가는 걸로 알고있어."/>
+  <text Id="02" Score="1" Content="맞아. 저 봉고차 타러 가면 산책도 시켜주고 재밌어."/>
+  <text Id="03" Score="0" Content="뭐 그렇지. 여기 친구들이랑 어디좀 가보려고."/>
+  
+  <text Id="10" Score="3" Content="‘최응모’인가? 그쪽에서 대절해주는 걸로 알고있어."/>
+  <text Id="11" Score="2" Content="있는 걸로 알고있어."/>
+  <text Id="12" Score="1" Content="친절이랑은 거리가 멀지. 어디 소속이라 그랬는데 딱히 호감가는 소속은 아니야."/>
+  <text Id="13" Score="0" Content="시설? 형편없지. 온갖 데가 고장나있어."/>
+  
+  <text Id="20" Score="3" Content="맞아. 교통비 포함해서 5만원인가 그쯤 줘. 그거 받으려고 가는거지."/>
+  <text Id="21" Score="2" Content="조금 받아. 교통비 말고도 조금 더 주는 것도 있고."/>
+  <text Id="22" Score="1" Content="아니야. 거기서 돈 좀 줘서 손난로 사면 되니까 상관없어."/>
+  <text Id="23" Score="0" Content="그쪽에서 주먹밥 줘."/>
+  
+  <text Id="30" Score="3" Content="시위가 있을때는 매번 가서 참가하고 와. 시위를 방해해야 한다나...."/>
+  <text Id="31" Score="2" Content="매주 토요일날 광화문에서 시위가 있으니까 맞불을 놓는 거겠지?"/>
+  <text Id="32" Score="1" Content="맞아. 다음에도 갈지도 모르지."/>
+  <text Id="33" Score="0" Content="다음 일정을 딱히 가르쳐주지는 않아."/>
+
+  
+</Answer>

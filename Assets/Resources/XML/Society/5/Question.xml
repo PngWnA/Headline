@@ -1,0 +1,23 @@
+﻿<Question>
+
+  <text Id="00" Content="은행에는 그 시간에 어떻게 가게 되었나요?"/>
+  <test Id="01" Content="그 시간에 은행에서 어떤 일을 하고 있었나요?"/>
+  <test Id="02" Content="어쩌다가 그 시간에 은행에 있었나요?"/>
+  <test Id="03" Content="은행에는 왜 있었나요?"/>
+
+  <text Id="10" Content="강도가 들어왔을 때 상황은 어땠나요?"/>
+  <test Id="11" Content="당시 상황은 강도가 들어오고 어땠나요?"/>
+  <test Id="12" Content="때마침 강도가 들어왔는데 어땠나요?"/>
+  <test Id="13" Content="그래서 상황은 어땠나요?"/>
+
+  <text Id="20" Content="강도를 잡게 된 상황을 설명해주시겠어요?"/>
+  <test Id="21" Content="강도를 잡게 된 경위를 말씀해 주시겠어요?"/>
+  <test Id="22" Content="상황 설명을 자세히 해주시겠어요?"/>
+  <test Id="23" Content="그래서 어떻게 되었나요?"/>
+
+  <text Id="30" Content="지금 심경은 어떤가요?"/>
+  <test Id="31" Content="기분은 지금 어떠세요?"/>
+  <test Id="32" Content="그 때 기분은 어땠나요?"/>
+  <test Id="33" Content="그 때 심경은?"/>
+
+</Question>

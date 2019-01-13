@@ -1,0 +1,29 @@
+<Answer>
+  
+  <text Id="00" Score="3" Content="어려서부터 천체에 관심이 많았습니다."/>
+  <text Id="01" Score="2" Content="어려서부터 천체에 관심이 많았습니다."/>
+  <text Id="02" Score="1" Content="어렵지만 그만큼 보람 있는 분야랍니다."/>
+  <text Id="03" Score="0" Content="나름의 보람은 느낍니다."/>
+  
+  <text Id="10" Score="3" Content="소행성 '베누' 입니다."/>
+  <text Id="11" Score="2" Content="소행성이란 태양 주위를 공전하는 행성보다 작은 태양계 천체를 의미합니다."/>
+  <text Id="12" Score="1" Content="네, 사실입니다."/>
+  <text Id="13" Score="0" Content="그러네요. 아슬아슬했죠."/>
+  
+  <text Id="20" Score="3" Content="이번에 온 ‘베누’의 경우 22세기에 지구와 충돌할 확률이 약 2700분의 1 정도입니다."/>
+  <text Id="21" Score="2" Content="지구에 근접한 소행성이 약 1만개 정도로 분석됩니다."/>
+  <text Id="22" Score="1" Content="아주 작은 확률이지만 가능합니다."/>
+  <text Id="23" Score="0" Content="인류의 대부분이 죽을겁니다."/>
+  
+  <text Id="30" Score="3" Content="소행성의 궤도를 계속 계산하고 있고, 소행성을 탐사하는 등 여러 노력을 하고 있습니다."/>
+  <text Id="31" Score="2" Content="소행성에게 핵을 쏘거나, 소행성에 태양빛을 쏘아 녹여버리는 등의 아이디어가 있습니다."/>
+  <text Id="32" Score="1" Content="여러 방법이 나오고는 있지만 장담할 수는 없습니다."/>
+  <text Id="33" Score="0" Content="공룡이 멸종했던 때와 같은 일이 인류에게도 벌어지겠죠."/>
+
+  
+  <text Id="40" Score="3" Content="여러분, 지구는 안전하니 안심하고 일에 종사해주시기 바랍니다."/>
+  <text Id="41" Score="2" Content="여러분, 지구는 안전하니 안심하고 일에 종사해주시기 바랍니다."/>
+  <text Id="42" Score="1" Content="여러분, 지구는 안전하니 안심하고 일에 종사해주시기 바랍니다."/>
+  <text Id="43" Score="0" Content="좋은 시간이었습니다. 감사합니다."/>
+  
+</Answer>

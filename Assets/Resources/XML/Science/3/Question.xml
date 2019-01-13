@@ -1,0 +1,23 @@
+﻿<Question>
+
+  <text Id="00" Content="PHP의 역사에 대해 간략하게 소개해 주세요."/>
+  <test Id="01" Content="PHP 이름의 유래는 무엇인가요?"/>
+  <test Id="02" Content="PHP는 언제 만들어졌나요?"/>
+  <test Id="03" Content="PHP는 역사가 깊은 언어인가요?"/>
+
+  <text Id="10" Content="PHP의 장점이 구체적으로 무엇인가요?"/>
+  <test Id="11" Content="PHP의 장점이 다형식 지원 외 어떤 것이 있나요?"/>
+  <test Id="12" Content="PHP의 좋은 점이 있나요?"/>
+  <test Id="13" Content="PHP가 좋은가요?"/>
+
+  <text Id="20" Content="PHP로 만든 대표 프로그램은 무엇이 있나요?"/>
+  <test Id="21" Content="회사에서 PHP로 자주 게임을 만드나요?"/>
+  <test Id="22" Content="PHP로 프로그램을 완성도있게 빌드 할 수 있나요?"/>
+  <test Id="23" Content="PHP가 쓰이긴 하나요?"/>
+
+  <text Id="30" Content="PHP를 이용하는 젊은 개발자들에게 한마디 부탁드립니다."/>
+  <test Id="31" Content="다시 태어나도 PHP를 쓰실건가요?"/>
+  <test Id="32" Content="어린이들에게 PHP를 가르쳐야 한다고 생각하십니까?"/>
+  <test Id="33" Content="PHP로 치매 예방이 가능하다는데 사실입니까?"/>
+
+</Question>

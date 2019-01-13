@@ -1,0 +1,28 @@
+﻿<Answer>
+  
+  <text Id="00" Score="3" Content="……."/>
+	<test Id="01" Score="2" Content="……."/>
+  <test Id="02" Score="1" Content="……."/>
+  <test Id="03" Score="0" Content="……."/>
+  
+  <text Id="10" Score="3" Content="……."/>
+  <text Id="11" Score="2" Content="……."/>
+  <text Id="12" Score="1" Content="……."/>
+  <text Id="13" Score="0" Content="……."/>
+  
+  <text Id="20" Score="3" Content="……."/>
+  <text Id="21" Score="2" Content="……."/>
+  <text Id="22" Score="1" Content="……."/>
+  <text Id="23" Score="0" Content="……."/>
+  
+  <text Id="30" Score="3" Content="……그래."/>
+  <text Id="31" Score="2" Content="……응."/>
+  <text Id="32" Score="1" Content="……."/>
+  <text Id="33" Score="0" Content="……."/>
+  
+  <text Id="40" Score="3" Content="……날 죽였어."/>
+  <text Id="41" Score="2" Content="……죽였어."/>
+  <text Id="42" Score="1" Content="……."/>
+  <text Id="43" Score="0" Content="……."/>
+  
+</Answer>

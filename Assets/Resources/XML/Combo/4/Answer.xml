@@ -1,0 +1,29 @@
+﻿<Answer>
+  
+  <text Id="00" Score="3" Content="아닙니다. 아니…… 그저 지인을 통해 알게 되어 친분이 있었던 것뿐입니다."/>
+  <text Id="01" Score="2" Content="오래전부터 친분이 있던 사이입니다."/>
+  <text Id="02" Score="1" Content="오래전에 지인을 통해 만난 사이입니다."/>
+  <text Id="03" Score="0" Content="아닙니다. 그저 오래 전부터 인연이 있어 알던 사이입니다."/>
+  
+  <text Id="10" Score="3" Content="오래전에 지인의 소개로 알게 되었습니다."/>
+  <text Id="11" Score="2" Content="오래전에 지인의 소개로 알게 되었습니다."/>
+  <text Id="12" Score="1" Content="지인의 소개로 알게 되었습니다."/>
+  <text Id="13" Score="0" Content="얼마 전에도 사석에서 본 적이 있습니다."/>
+  
+  <text Id="20" Score="3" Content="아주 친한 사이기 때문에 연유정 씨가 병역 기피 혐의가 있던 것과 상관없이 수시로 연락했습니다."/>
+  <text Id="21" Score="2" Content="개인적인 친분이 있어서 통화를 했을 뿐이고 다른 의도는 없었습니다."/>
+  <text Id="22" Score="1" Content="아주 친한 사이기 때문에 평소에서 수시로 연락합니다."/>
+  <text Id="23" Score="0" Content="지인이 소개로 알게 된 것뿐입니다."/>
+  
+  <text Id="30" Score="3" Content="아닙니다. 경찰이 부실 수사 한 것과는 관계가 없습니다."/>
+  <text Id="31" Score="2" Content="아뇨, 경찰의 부실 수사와는 관계가 없습니다."/>
+  <text Id="32" Score="1" Content="아닙니다. 고은회 씨와 통화를 한 것은 연유정 씨와 전혀 관계가 없습니다.-x-"/>
+  <text Id="33" Score="0" Content="아닙니다. 고은회 씨와 접촉을 한 것은 연유정 씨 때문이 아닙니다.-x-"/>
+
+  
+  <text Id="40" Score="3" Content="……아닙니다. 말꼬리 잡지 마십시오."/>
+  <text Id="41" Score="2" Content="……아뇨. 말꼬리 잡지 마십시오."/>
+  <text Id="42" Score="1" Content="아뇨, 아뇨. 그것은 사실이 아닙니다."/>
+  <text Id="43" Score="0" Content="아뇨, 그런 말 한적 없습니다."/>
+  
+</Answer>

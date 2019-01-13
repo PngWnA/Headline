@@ -1,0 +1,28 @@
+﻿<Question>
+
+  <text Id="00" Content="사건이 언제 어디서 일어난 건가요?"/>
+  <test Id="01" Content="사건에 대해서 어떻게 알게 되셨나요?"/>
+  <test Id="02" Content="사건 정황을 어떻게 알았나요?"/>
+  <test Id="03" Content="사건이 일어날 당시에 어디서 무엇을 하고 계셨나요?"/>
+
+  <text Id="10" Content="김씨는 평소 어떤 사람이었나요?"/>
+  <text Id="11" Content="김씨의 평소 모습은 어땠나요?"/>
+  <text Id="12" Content="김씨는 어떤 사람인가요?"/>
+  <text Id="13" Content="김씨가 평소에 자살을 할 것 같이 행동했나요?"/>
+
+  <text Id="20" Content="이장님이나 마을 사람들 하고는 어떤 사이였나요?"/>
+  <text Id="21" Content="주변 사람들과의 관계는 어땠나요?"/>
+  <text Id="22" Content="김씨와는 어떤 관계였나요?"/>
+  <text Id="23" Content="김씨 주변 사람들은 어땠나요?"/>
+
+  <text Id="30" Content="사건이 일어난 원인이 무엇이라고 생각하시나요?"/>
+  <text Id="31" Content="사건이 일어난 이유가 무엇일까요?"/>
+  <text Id="32" Content="왜 이런 사건이 일어난 걸까요?"/>
+  <text Id="33" Content="이런 사건이 왜 일어났죠?"/>
+
+  <text Id="40" Content="다른 이유가 있을까요?"/>
+  <text Id="41" Content="김씨의 자살에 대해 어떻게 생각하세요?"/>
+  <text Id="42" Content="김씨가 어려운 상황에 처했었나요?"/>
+  <text Id="43" Content="더 자세히 말씀해 주실 수 있나요?"/>
+
+</Question>

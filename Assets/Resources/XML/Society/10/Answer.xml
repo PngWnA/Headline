@@ -1,0 +1,29 @@
+﻿<Answer>
+  
+  <text Id="00" Score="3" Content="설날이라 오랜만에 모였지."/>
+  <text Id="01" Score="2" Content="설날이니까 고향 와서 모였지."/>
+  <text Id="02" Score="1" Content="그렇지."/>
+  <text Id="03" Score="0" Content="그렇지."/>
+  
+  <text Id="10" Score="3" Content="오랜만에 모여서 다들 게임하고 노는데, 하다 보니 돈 걸고 하자는 말이 나왔지."/>
+  <text Id="11" Score="2" Content="기억은 안 나는데, 그냥 하다 보니 돈 걸고 하자는 말이 나왔지."/>
+  <text Id="12" Score="1" Content="심심해서 게임 한 판 하다가 그랬지."/>
+  <text Id="13" Score="0" Content="심심해서 게임 한 판 하다가 그랬지."/>
+  
+  <text Id="20" Score="3" Content="포커랑 훌라를 했는데, 하다 보니 판당 10만원씩 오가더라구."/>
+  <text Id="21" Score="2" Content="포커랑 훌라를 했어."/>
+  <text Id="22" Score="1" Content="처음엔 윷놀이 좀 하다가… 포커랑 훌라를 했지."/>
+  <text Id="23" Score="0" Content="딱히 좋아하지는 않어."/>
+  
+  <text Id="30" Score="3" Content="알고 있었지."/>
+  <text Id="31" Score="2" Content="이번이 처음이지."/>
+  <text Id="32" Score="1" Content="아니, 딱히 좋아하진 않았어."/>
+  <text Id="33" Score="0" Content="이렇게 커질 줄 알았나…"/>
+
+  
+  <text Id="40" Score="3" Content="앞으론 도박 안해야지 라는 생각이 들지…."/>
+  <text Id="41" Score="2" Content="당연히 그래야지…."/>
+  <text Id="42" Score="1" Content="그걸 말이라고 묻나? 이런…."/>
+  <text Id="43" Score="0" Content="그걸 말이라고 묻나? 이런…."/>
+  
+</Answer>

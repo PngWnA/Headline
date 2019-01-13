@@ -1,0 +1,29 @@
+﻿<Answer>
+  
+  <text Id="00" Score="3" Content="그래, 내가 그 유명한 냉면밥 집 점주라네."/>
+  <text Id="01" Score="2" Content="그래, 내가 이 집 점주야."/>
+  <text Id="02" Score="1" Content="그래, 내가 김냉면이라네."/>
+  <text Id="03" Score="0" Content="그렇다네."/>
+  
+  <text Id="10" Score="3" Content="냉면에 밥을 말아먹는 음식이여."/>
+  <text Id="11" Score="2" Content="냉면에 밥을 말아먹는 음식이여."/>
+  <text Id="12" Score="1" Content="냉면에 밥을 말아먹는 음식이여."/>
+  <text Id="13" Score="0" Content="억수로 맛있지."/>
+  
+  <text Id="20" Score="3" Content="언젠진 잘 모르겠고, 언제부턴가 고려대 학생들이 와서 밥을 말아먹더라구. 그러다 점점 소문이 나서 다들 오게 되었지."/>
+  <text Id="21" Score="2" Content="언제부턴가 고려대 학생들이 와서 밥을 말아먹더라구. 그러다 점점 소문이 나서 다들 오게 되었지."/>
+  <text Id="22" Score="1" Content="글쎄말이여. 다들 몇 번씩 찾아오더라구."/>
+  <text Id="23" Score="0" Content="그러게 말이여. 신기한 일이지."/>
+  
+  <text Id="30" Score="3" Content="내 자식처럼 생각하고 정성 들여 만드는게 맛의 비결이지."/>
+  <text Id="31" Score="2" Content="그냥 정성을 다해 만들면 그게 비법이지."/>
+  <text Id="32" Score="1" Content="그냥 평범한 냉면처럼 만들지."/>
+  <text Id="33" Score="0" Content="그냥 평범한 냉면처럼 만들지."/>
+
+  
+  <text Id="40" Score="3" Content="다 정성 들여 만들었으니 많이들 찾아와 주시게들."/>
+  <text Id="41" Score="2" Content="음… 우리 가게 많이 찾아와."/>
+  <text Id="42" Score="1" Content="고객님들 항상 감사합니다."/>
+  <text Id="43" Score="0" Content="딱히 할 말이 없구려…"/>
+  
+</Answer>

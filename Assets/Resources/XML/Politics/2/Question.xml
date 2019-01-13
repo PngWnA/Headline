@@ -1,0 +1,21 @@
+<Question>
+	<text Id="00" Content="차타고 뭐 하러 가는 건가요?"/>
+	<text Id="01" Content="차 타고 어디 가는 건가요?"/>
+	<text Id="02" Content="차 타고 어디 멀리 가시나봐요?"/>
+	<text Id="03" Content="차 타고 산책하러 가시나요?"/>
+
+	<text Id="10" Content="어떤 곳에서 차를 대절해주나요?"/>
+	<text Id="11" Content="차랑 정치조직이랑 연관이 있나요?"/>
+	<text Id="12" Content="차 기사님은 친절하신가요?"/>
+	<text Id="13" Content="차의 시설은 어떤가요?"/>
+
+	<text Id="20" Content="혹시 봉고차를 타면 교통비라던지 추가금을 주는 사람이 있나요?"/>
+	<text Id="21" Content="돌아올 때 교통비는 받나요?"/>
+	<text Id="22" Content="그쪽으로 가면 요즘 날씨에 춥지 않나요?"/>
+	<text Id="23" Content="밥은 어떻게 해결하시나요?"/>
+
+	<text Id="30" Content="토요일 말고 다른 날 차를 타는 경우는 있나요?"/>
+	<text Id="31" Content="매주 토요일날 가는 건가요?"/>
+	<text Id="32" Content="토요일날 가면 딱히 심심하지는 않겠어요."/>
+	<text Id="33" Content="오늘이 마지막으로 가는 건가요?"/>
+</Question>

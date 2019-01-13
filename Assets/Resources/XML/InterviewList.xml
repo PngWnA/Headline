@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This is number of Interviews-->
+<content>
+	<Economy numbers="9" />
+	<Entertainment numbers="10" />
+	<Politics numbers="5" />
+	<Science numbers="6" />
+	<Society numbers="14" />
+	<Combo numbers="6" />
+</content>

@@ -1,0 +1,23 @@
+﻿<Answer>
+  
+  <text Id="00" Score="3" Content="영국은 기존 유럽 연합의 규제를 탐탁치 않게 생각했고, 최근 이민 동향도 영국에게 불리한 방향으로 돌아가기 때문에 영국이 EU타치를 결정하게 된 것 같습니다."/>
+  <text Id="01" Score="2" Content="유럽 연합의 규제를 탐탁치 않게 생각했기 떄문입니다."/>
+  <text Id="02" Score="1" Content="네. 그렇습니다."/>
+  <text Id="03" Score="0" Content="네. 그렇습니다."/>
+  
+  <text Id="10" Score="3" Content="영국이 EU에 통보 한 후, EU가 영국에게 탈퇴 약관을 제시 후 영국이 승인하는 방식입니다."/>
+  <text Id="11" Score="2" Content="EU는 탈퇴 약관을 만들어 영국에 제출해야 할 의무가 있습니다."/>
+  <text Id="12" Score="1" Content="네. 여러 나라와의 계약을 파기하기는 어렵죠."/>
+  <text Id="13" Score="0" Content="네. 저의 전문분야입니다."/>
+  
+  <text Id="20" Score="3" Content="영국 국왕 엘리자베스 2세가 발의했습니다."/>
+  <text Id="21" Score="2" Content="EU타치는 왕의 직권으로 동의되었습니다."/>
+  <text Id="22" Score="1" Content="영국은 입헌 군주정입니다."/>
+  <text Id="23" Score="0" Content="엘리자베스 2세입니다."/>
+  
+  <text Id="30" Score="3" Content="영국이 EU를 탈퇴하면서 먼저 EU의 최선진국의 일자리가 사라지게 되고, 장기적으로 자유로운 이민이 불가능해질 수도 있습니다."/>
+  <text Id="31" Score="2" Content="네. 무역 관세가 올라가서 수출에 제한이 생깁니다."/>
+  <text Id="32" Score="1" Content="장기적으로 이민이 불가능해질 수 있습니다."/>
+  <text Id="33" Score="0" Content="세계 정세가 많이 바뀔 것입니다."/>
+  
+</Answer>

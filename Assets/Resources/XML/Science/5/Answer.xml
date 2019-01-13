@@ -1,0 +1,29 @@
+﻿<Answer>
+  
+  <text Id="00" Score="3" Content="RSA는 공개 키 암호화 방식 알고리즘으로, 소인수분해의 어려움에 기반을 둔 알고리즘입니다."/>
+  <text Id="01" Score="2" Content="RSA는 공개 키 암호화 방식 알고리즘으로, 소인수분해의 어려움에 기반을 둔 알고리즘입니다."/>
+  <text Id="02" Score="1" Content="네, 감사합니다."/>
+  <text Id="03" Score="0" Content="아, 감사합니다."/>
+  
+  <text Id="10" Score="3" Content="RSA에 대한 강연을 하기 위해서 왔습니다."/>
+  <text Id="11" Score="2" Content="RSA에 대한 강연을 하러 왔습니다."/>
+  <text Id="12" Score="1" Content="강연을 하러 왔습니다."/>
+  <text Id="13" Score="0" Content="Umm… Yes…."/>
+  
+  <text Id="20" Score="3" Content="알고리즘을 개발한 Rimest, Shadir, Avleman 세 사람의 이름의 약자랍니다."/>
+  <text Id="21" Score="2" Content="알고리즘을 개발한 Rimest, Shadir, Avleman을 의미한답니다."/>
+  <text Id="22" Score="1" Content="알고리즘을 개발한 Rimest, Shadir, Avleman을 의미한답니다."/>
+  <text Id="23" Score="0" Content="개발한 세 명의 이름을 땄답니다."/>
+  
+  <text Id="30" Score="3" Content="이전에 나온 대칭 키 암호 시스템은 서로 같은 키를 가지고 있어야 하기 때문에 키를 교환하는 문제가 있었는데, RSA와 같은 공개 키 기반 암호는 키를 교환하는 문제를 해결할 수 있답니다."/>
+  <text Id="31" Score="2" Content="대칭 키 암호는 서로 동일한 키를 가져야 하는데, RSA는 그러지 않아도 된답니다."/>
+  <text Id="32" Score="1" Content="키 교환 문제를 해결할 수 있답니다."/>
+  <text Id="33" Score="0" Content="차근차근 해보면 어렵지 않답니다."/>
+
+  
+  <text Id="40" Score="3" Content="소인수분해의 어려움에 기반을 두기 때문에, 소인수분해가 쉬운 수를 사용했을 경우엔 쉽게 뚫릴 수 있습니다. 따라서 최근엔 2048bit, 4096bit정도의 수를 이용하는 것이 안전합니다."/>
+  <text Id="41" Score="2" Content="소인수분해의 어려움에 기반을 두기 때문에, 소인수분해가 쉬운 수를 사용했을 경우엔 쉽게 뚫릴 수 있습니다. 따라서 최근엔 2048bit, 4096bit정도의 수를 이용하는 것이 안전합니다."/>
+  <text Id="42" Score="1" Content="소인수분해의 어려움에 기반을 두기 때문에, 소인수분해가 쉬운 수를 사용했을 경우엔 쉽게 뚫릴 수 있습니다."/>
+  <text Id="43" Score="0" Content="암호화, 복호화 속도가 느리다는 것이 단점이긴 합니다. 하지만, 컴퓨터의 성능이 좋아질수록 계산 속도가 빨라 문제없을 것입니다."/>
+  
+</Answer>

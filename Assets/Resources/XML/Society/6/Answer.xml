@@ -1,0 +1,23 @@
+﻿<Answer>
+  
+  <text Id="00" Score="3" Content="먼저 후배들이랑 친해지고 싶고, 서로 서먹서먹한 후배들끼리 친해질 수 있도록 하기 위해서 활동을 하게 되었습니다."/>
+  <text Id="01" Score="2" Content="후배들이 친해질 수 있도록 하기 위해서 엑스맨을 지원했습니다."/>
+  <text Id="02" Score="1" Content="제 스스로의 재미와 신입생들을 위해서 합니다."/>
+  <text Id="03" Score="0" Content="엑스맨은 기존 재학생이 신입생인 척을 하는 것입니다."/>
+  
+  <text Id="10" Score="3" Content="저는 신입생 오리엔테이션때 제가 선배인 것을 밝혔습니다."/>
+  <text Id="11" Score="2" Content="네. 저는 신입생 오티때 밝혔습니다."/>
+  <text Id="12" Score="1" Content="어쩔수 없지요."/>
+  <text Id="13" Score="0" Content="어차피 신입생이랑 수업 같이 들어야 합니다."/>
+  
+  <text Id="20" Score="3" Content="앞에도 밝혔듯이 후배들의 단합력을 높이기 위해서 엑스맨이 존재하는만큼, 신입생들을 즐겁게 해주는 것이 가장 중요하다고 생각합니다."/>
+  <text Id="21" Score="2" Content="술게임 등을 통해 서로를 알아가도록 유도했습니다."/>
+  <text Id="22" Score="1" Content="아닙니다. 신경 쓸 게 많습니다."/>
+  <text Id="23" Score="0" Content="아닙니다."/>
+  
+  <text Id="30" Score="3" Content="신입생 서로간의 불신이 쌓아지고, 의도치 않은 마녀사냥을 당할 수 있다는 점입니다."/>
+  <text Id="31" Score="2" Content="네. 의도치 않은 마녀사냥이 대표적인 단점이라고 생각합니다."/>
+  <text Id="32" Score="1" Content="큰 의미가 있다고 생각합니다."/>
+  <text Id="33" Score="0" Content="사실 꼭 필요하지 않습니다."/>
+  
+</Answer>

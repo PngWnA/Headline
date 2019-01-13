@@ -1,0 +1,23 @@
+﻿<Question>
+
+  <text Id="00" Content="영국은 어떤 계기로 EU타치를 하게 된 것입니까?"/>
+  <test Id="01" Content="영국이 EU타치를 한 이유가 있습니까?"/>
+  <test Id="02" Content="영국이 최근 EU타치를 실행한다고 했죠?"/>
+  <test Id="03" Content="영국이 최근 EU를 탈퇴한다고 했죠?"/>
+
+  <text Id="10" Content="영국의 EU타치의 과정을 알려주십시오."/>
+  <test Id="11" Content="EU타치에 EU가 할 일은 무엇입니까?"/>
+  <test Id="12" Content="EU타치의 과정이 복잡한 것 같아요."/>
+  <test Id="13" Content="EU타치의 과정을 아시나요?"/>
+
+  <text Id="20" Content="EU타치는 누가 발의한 것인가요?"/>
+  <test Id="21" Content="EU타치는 국회의 동의를 받았나요?"/>
+  <test Id="22" Content="영국은 사회주의 공화정이죠?"/>
+  <test Id="23" Content="영국의 국왕은 누구입니까?"/>
+
+  <text Id="30" Content="EU타치를 통해 다른 EU국가들에게 미치는 영향이 무엇일까요?"/>
+  <test Id="31" Content="EU타치는 아시아 국가에 영향을 미치나요?"/>
+  <test Id="32" Content="EU타치가 우리 생활에 불편을 끼치나요?"/>
+  <test Id="33" Content="EU타치 때문에 복잡해요."/>
+
+</Question>

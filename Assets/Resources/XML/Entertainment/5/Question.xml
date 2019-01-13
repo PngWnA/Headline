@@ -1,0 +1,21 @@
+<Question>
+	<text Id="00" Content="도범무 씨와 한 팀이 되었을 때 기분이 어땠나요?"/>
+	<text Id="01" Content="도범무 씨와 한 팀이 되었나요?"/>
+	<text Id="02" Content="도범무 씨 잘생겼나요?"/>
+	<text Id="03" Content="도범무 씨를 보았나요?"/>
+
+	<text Id="10" Content="도범무 씨와 전화번호 교환을 한 것이 사실입니까?"/>
+	<text Id="11" Content="도범무 씨와 전화 한 적이 있으신가요?"/>
+	<text Id="12" Content="도범무 씨와 대화를 해 본 적이 있습니까?"/>
+	<text Id="13" Content="도범무 씨는 전화를 가지고 있나요?"/>
+
+	<text Id="20" Content="본인과 도범무 씨의 닮은 점은 무엇이라고 생각합니까?"/>
+	<text Id="21" Content="본인과 도범무 씨의 성격이 맞았나요?"/>
+	<text Id="22" Content="도범무 씨가 대선에 관한 얘기를 했나요?"/>
+	<text Id="23" Content="도범무 씨 솔직히 건방지지 않나요?"/>
+
+	<text Id="30" Content="앞으로 도범무 씨에게 하고 싶은 말이 있다면?"/>
+	<text Id="31" Content="본인과 도범무 씨의 관계는 어떻다고 생각하시나요?"/>
+	<text Id="32" Content="도범무 씨의 딸은 어떤가요?"/>
+	<text Id="33" Content="도범무 씨를 볼 생각은 있나요?"/>
+</Question>

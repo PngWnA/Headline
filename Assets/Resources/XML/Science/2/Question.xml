@@ -1,0 +1,28 @@
+<Question>
+
+  <text Id="00" Content="행성을 연구하게 된 계기가 있나요?"/>
+  <test Id="01" Content="왜 행성을 연구하게 되었나요?"/>
+  <test Id="02" Content="천문학이라니, 어렵겠네요."/>
+  <test Id="03" Content="이 일은 재미있나요?"/>
+
+  <text Id="10" Content="이번에 지나간 소행성은 무엇인가요?"/>
+  <test Id="11" Content="소행성이란 무엇인가요?"/>
+  <test Id="12" Content="소행성이 지나갔다는 것이 사실인가요?"/>
+  <test Id="13" Content="이번에 소행성이 스쳐 지나갔다니 정말 무섭네요."/>
+
+  <text Id="20" Content="지구랑 소행성이 충돌할 확률은 어느정도 인가요?"/>
+  <test Id="21" Content="지구랑 충돌할 수 있는 소행성은 얼마나 되나요?"/>
+  <test Id="22" Content="정말 지구랑 소행성이 충돌할 수 있나요?"/>
+  <test Id="23" Content="소행성이 충돌하면 지구는 끝이겠죠…?"/>
+
+  <text Id="30" Content="소행성을 막기 위해서 어떤 노력을 하고 있나요?"/>
+  <test Id="31" Content="소행성을 막을 방법에는 무엇이 있나요?"/>
+  <test Id="32" Content="소행성을 막을 수 있나요?"/>
+  <test Id="33" Content="소행성이 충돌하면 어떤 일이 벌어질까요?"/>
+
+  <text Id="40" Content="이번 소행성 충돌에 대해 하실 말씀이 있나요?"/>
+  <test Id="41" Content="소행성에 관해 더 하실 말씀이 있나요?"/>
+  <test Id="42" Content="마지막으로 하실 말씀 있나요?"/>
+  <test Id="43" Content="인터뷰에 응해 주셔서 감사합니다."/>
+
+</Question>

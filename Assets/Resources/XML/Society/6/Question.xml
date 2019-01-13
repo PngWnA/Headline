@@ -1,0 +1,23 @@
+﻿<Question>
+
+  <text Id="00" Content="엑스맨 활동을 하게 된 계기는 무엇입니까?"/>
+  <test Id="01" Content="어떤 생각으로 엑스맨을 하셨어요?"/>
+  <test Id="02" Content="엑스맨 왜해요?"/>
+  <test Id="03" Content="엑스맨이 뭔가요?"/>
+
+  <text Id="10" Content="자신이 엑스맨이란 것을 언제 밝혔습니까?"/>
+  <test Id="11" Content="엑스맨인 걸 결국 밝혀야 하겠네요."/>
+  <test Id="12" Content="거짓말쟁이네요. 양심이 있어요?"/>
+  <test Id="13" Content="이왕 한 김에 신입생 하죠?"/>
+
+  <text Id="20" Content="엑스맨은 무엇을 해야한다고 생각합니까?"/>
+  <test Id="21" Content="엑스맨 해서 한 일 있어요?"/>
+  <test Id="22" Content="솔직히 엑스맨 할 거 없죠?"/>
+  <test Id="23" Content="엑스맨 할 게 없어 보이는데요."/>
+
+  <text Id="30" Content="엑스맨 활동의 문제점은 무엇이라고 생각합니까?"/>
+  <test Id="31" Content="엑스맨 활동이 장단점이 있다고 생각합니까?"/>
+  <test Id="32" Content="이 엑스맨 활동에 의미가 있다고 생각하시나요?"/>
+  <test Id="33" Content="엑스맨이 꼭 필요할까요?"/>
+
+</Question>
